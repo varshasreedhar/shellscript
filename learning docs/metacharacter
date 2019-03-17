@@ -1,0 +1,9 @@
+Single quote
+
+All special characters between these quotes lose their special meaning.
+
+Double quote
+
+Most special characters between these quotes lose their special meaning with these exceptions −
+ $  `  \$     \'      \"      \\
+
